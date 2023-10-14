@@ -1,0 +1,6 @@
+/*@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';*/
+body{
+  border: 4px solid black;
+  background-color: white;
+  /*background-image: url('assets/images/doodles.png');*/
+}
